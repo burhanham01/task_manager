@@ -1,0 +1,43 @@
+{
+  "boards": [
+    {
+      "name": "Demo",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Build an app",
+              "description": "Task management app using react",
+              "subtasks": [],
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Learn React",
+              "description": "",
+              "subtasks": [],
+              "status": "Doing"
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Learn HTML, CSS and JS",
+              "description": "T",
+              "subtasks": [],
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
